@@ -10,4 +10,8 @@ my name is anay aggarwal 123
 # local changes in feature branch
 
 1. hi
+<<<<<<< HEAD
 2. there
+=======
+2. world
+>>>>>>> main
